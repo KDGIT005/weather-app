@@ -36,7 +36,7 @@ WeatherAPI for real-time data
 
 Clone the repository
 
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/KDGIT005/weather-app
 
 
 Open the project
@@ -53,14 +53,9 @@ Enter a city name and click "Show Weather"
 🌍 Live Demo
 
 Click here to view the live app
+https://kdgit005.github.io/weather-app/
 
-📸 Screenshots
 
-Add a screenshot of your app here for better presentation.
-
-Example:
-
-![Weather App Screenshot](screenshot.png)
 
 ⚠️ API Key Note
 
@@ -74,5 +69,6 @@ Replace it in script.js:
 const apiKey = "YOUR_API_KEY_HERE";
 
 📜 License
+
 
 This project is open-source and available under the MIT License.
